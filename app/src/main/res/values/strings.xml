@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculando</string>
+    <string name="titulo">Calculadora de áreas</string>
+    <string name="ladoUno">Lado uno</string>
+    <string name="ladoDos">Lado dos</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular </string>
+</resources>
